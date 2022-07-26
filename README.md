@@ -4,4 +4,3 @@
     - New "Developer" ;
      - Discord: "Mr.crazy#9696" ;
       -insta: "6fx.q" ;
-       - Soon..

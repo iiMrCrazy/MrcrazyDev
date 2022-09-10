@@ -1,6 +1,4 @@
-- name: "Rayane" ;
- - age: "16" ;
-   - from: "Maroc" ;
-    - New "Developer" ;
-     - Discord: "Mr.crazy#9696" ;
-      -insta: "6fx.q" ;
+  - Rayane
+   - AKA Mr.crazy
+    - Ordinary person
+     - 9/30

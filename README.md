@@ -1,4 +1,2 @@
-  - Rayane
-   - AKA Mr.crazy
-    - Ordinary person
-     - 9/30
+          Hi There, I'm Rayane but users call me MrCrazy
+
